@@ -101,3 +101,6 @@ However, the following measures do apply:
 ### Future development
 * Variable rows per page drop down
 * Ability to create, edit, modify tables
+
+
+<!-- Security scan triggered at 2026-08-31 17:25:46 -->
